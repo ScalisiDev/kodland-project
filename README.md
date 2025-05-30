@@ -7,7 +7,7 @@ Un bot Discord informativo.
 - 🔍 Scopri cos'è l'inquinamento
 - 📰 Ricerca su possibili soluzioni
 - 📊 Calendario riciclo aggiornato in x città
-- 👥 Curiosità settimanale
+- 👥 Curiosità casuale
 
 ## 🔄 Sempre aggiornato
 
